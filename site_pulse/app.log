@@ -1,0 +1,20 @@
+
+--- Проверка от 15:30:17 ---
+✅ СЕТЬ: 8.8.8.8:53 доступен
+✅ СЕТЬ: google.com:80 доступен
+✅ https://attendance-app.mirea.ru: работает! Status: 200
+✅ https://github.com: работает! Status: 200
+❌ https://www.googleee.com: ошибка (Get "https://www.googleee.com": remote error: tls: unrecognized name)
+⚠️ ОШИБКА: Переменные BOT_TOKEN или BOT_CHAT_ID пусты! Проверь запуск программы.
+✅ https://yandex.ru: работает! Status: 200
+---------------------------------
+
+--- Проверка от 15:30:27 ---
+✅ СЕТЬ: 8.8.8.8:53 доступен
+✅ СЕТЬ: google.com:80 доступен
+✅ https://attendance-app.mirea.ru: работает! Status: 200
+✅ https://github.com: работает! Status: 200
+✅ https://yandex.ru: работает! Status: 200
+❌ https://www.googleee.com: ошибка (Get "https://www.googleee.com": remote error: tls: unrecognized name)
+---------------------------------
+⚠️ ОШИБКА: Переменные BOT_TOKEN или BOT_CHAT_ID пусты! Проверь запуск программы.
